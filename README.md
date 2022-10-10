@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Travel Helper - website inspired by a TripAdvisor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website is fetching data from https://rapidapi.com/hub and google maps to display information about different places.
+Link to website: https://vocal-liger-0a7f4b.netlify.app
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/82409487/194930393-926fb4fa-0f70-488e-9435-54c7280544e6.png)
 
-In the project directory, you can run:
+## General info
+
+This is my first complex website to learn working with APIs and google maps. Modeling fetched data to display information about attractions, hotels, restaurants and their location on map. This project is not mobile responsive yet. I'll be updating it soon.
 
 ### `npm start`
 
